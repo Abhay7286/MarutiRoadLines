@@ -1,2 +1,8 @@
-# MarutiRoadLines
-Maruti Roadlines - Transportation and Logistics Web App Maruti Roadlines is a modern web application offering transportation and logistics services across India. Users can explore services, track shipments, and discover career opportunities. Built with React, it features a responsive design, ensuring a seamless experience on all devices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
